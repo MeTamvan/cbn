@@ -1,4 +1,4 @@
-<?php
+<?php bot
 /***
 Site		:	http://www.tool.eddiekidiw.com/phpobfuscator-v-02.html
 Date		:	2019-03-09
